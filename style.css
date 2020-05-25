@@ -289,6 +289,8 @@ a:hover {
 }
 
 .row-no-gutters {
+    padding-top: 10px;
+    padding-bottom: 40px;
     margin-right: 0;
     margin-left: 0;
 }
