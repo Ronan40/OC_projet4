@@ -116,7 +116,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color:#000000;
 }
 
 .d-bloc button:hover {
@@ -667,7 +667,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -723,7 +723,6 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
-    
 }
 
 h3 {
@@ -753,7 +752,11 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
+}
+
+.white2{
+    color: #FFF!important;
 }
 
 .portfolio-thumb {
@@ -797,12 +800,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
